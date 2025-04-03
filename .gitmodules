@@ -1,0 +1,6 @@
+[submodule "craft4free-backend"]
+	path = craft4free-backend
+	url = git@github.com:ajinkyatalekar/craft4free-backend.git
+[submodule "craft4free-frontend"]
+	path = craft4free-frontend
+	url = git@github.com:ajinkyatalekar/craft4free-frontend.git
